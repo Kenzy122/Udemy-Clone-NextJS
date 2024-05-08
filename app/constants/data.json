@@ -1,0 +1,76 @@
+{
+  "results": [
+    {
+      "_class": "course_label",
+      "id": 25106,
+      "display_name": "QuickBooks Online",
+      "topic_channel_url": "/topic/quickbooks-online/",
+      "title": "QuickBooks Online",
+      "url": "/topic/quickbooks-online/"
+    },
+    {
+      "_class": "course_label",
+      "id": 7420,
+      "display_name": "QuickBooks",
+      "topic_channel_url": "/topic/quickbooks/",
+      "title": "QuickBooks",
+      "url": "/topic/quickbooks/"
+    },
+    {
+      "_class": "course_label",
+      "id": 5780,
+      "display_name": "SAP FICO",
+      "topic_channel_url": "/topic/fico/",
+      "title": "SAP FICO",
+      "url": "/topic/fico/"
+    },
+    {
+      "_class": "course_label",
+      "id": 8492,
+      "display_name": "Xero",
+      "topic_channel_url": "/topic/xero/",
+      "title": "Xero",
+      "url": "/topic/xero/"
+    },
+    {
+      "_class": "course_label",
+      "id": 6730,
+      "display_name": "Excel",
+      "topic_channel_url": "/topic/excel/",
+      "title": "Excel",
+      "url": "/topic/excel/"
+    },
+    {
+      "_class": "course_label",
+      "id": 7422,
+      "display_name": "QuickBooks Pro",
+      "topic_channel_url": "/topic/quickbooks-pro/",
+      "title": "QuickBooks Pro",
+      "url": "/topic/quickbooks-pro/"
+    },
+    {
+      "_class": "course_label",
+      "id": 5800,
+      "display_name": "Financial Analysis",
+      "topic_channel_url": "/topic/financial-analysis/",
+      "title": "Financial Analysis",
+      "url": "/topic/financial-analysis/"
+    },
+    {
+      "_class": "course_label",
+      "id": 5806,
+      "display_name": "Financial Modeling",
+      "topic_channel_url": "/topic/financial-modeling/",
+      "title": "Financial Modeling",
+      "url": "/topic/financial-modeling/"
+    },
+    {
+      "_class": "course_label",
+      "id": 7140,
+      "display_name": "Personal Finance",
+      "topic_channel_url": "/topic/personal-finance/",
+      "title": "Personal Finance",
+      "url": "/topic/personal-finance/"
+    }
+  ]
+}

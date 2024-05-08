@@ -1,0 +1,160 @@
+{
+  "data": {
+    "searchAutocomplete": [
+      {
+        "item": {
+          "phrase": "home automation",
+          "__typename": "SearchAutocompleteLogItem"
+        },
+        "resultTrackingId": "cGgQ5ghgS5CU_XdkN7hUAQ",
+        "trackingId": "4gNnEiWWRKepGKnloHCO0g"
+      },
+      {
+        "item": {
+          "phrase": "smart home automation",
+          "__typename": "SearchAutocompleteLogItem"
+        },
+        "resultTrackingId": "cGgQ5ghgS5CU_XdkN7hUAQ",
+        "trackingId": "5QB1hgr5RaCMciWjxjpVvA"
+      },
+      {
+        "item": {
+          "phrase": "smart home automation iot",
+          "__typename": "SearchAutocompleteLogItem"
+        },
+        "resultTrackingId": "cGgQ5ghgS5CU_XdkN7hUAQ",
+        "trackingId": "mBnMCvvAQL-A9pgcvg5QSA"
+      },
+      {
+        "item": {
+          "phrase": "iot home automation",
+          "__typename": "SearchAutocompleteLogItem"
+        },
+        "resultTrackingId": "cGgQ5ghgS5CU_XdkN7hUAQ",
+        "trackingId": "9hwAB12nT5-pU7HmGEfI6w"
+      },
+      {
+        "item": {
+          "phrase": "home automation iot",
+          "__typename": "SearchAutocompleteLogItem"
+        },
+        "resultTrackingId": "cGgQ5ghgS5CU_XdkN7hUAQ",
+        "trackingId": "9r0dEAmFTUWvk4u-1qhTBA"
+      },
+      {
+        "item": {
+          "id": "309486",
+          "title": "Make a Living as a Smart Home Automation & IoT Installer",
+          "url": "https://udemy.com/course/make-a-living-as-a-smart-home-installer",
+          "instructors": [
+            {
+              "name": "Gerard ODriscoll"
+            }
+          ],
+          "images": {
+            "px50x50": "https://img-c.udemycdn.com/course/50x50/309486_01ba_3.jpg"
+          },
+          "__typename": "Course"
+        },
+        "resultTrackingId": "cGgQ5ghgS5CU_XdkN7hUAQ",
+        "trackingId": "fwMsgSDZSpqbH4s5KhsW0A"
+      },
+      {
+        "item": {
+          "id": "5284482",
+          "title": "Home Automation with ESP32 and Google Home 2023",
+          "url": "https://udemy.com/course/home-automation-with-esp32-and-google-home",
+          "instructors": [
+            {
+              "name": "Comfiny ."
+            },
+            {
+              "name": "Technical Support Team"
+            }
+          ],
+          "images": {
+            "px50x50": "https://img-c.udemycdn.com/course/50x50/5284482_8c56_8.jpg"
+          },
+          "__typename": "Course"
+        },
+        "resultTrackingId": "cGgQ5ghgS5CU_XdkN7hUAQ",
+        "trackingId": "Gt9Ol9KnR-y5b8jfEeMGrw"
+      },
+      {
+        "item": {
+          "id": "1824628",
+          "title": "Building Alexa Skills for Home Automation with Raspberry Pi",
+          "url": "https://udemy.com/course/building-alexa-skills-for-home-automation-with-raspberry-pi",
+          "instructors": [
+            {
+              "name": "Lee Assam"
+            }
+          ],
+          "images": {
+            "px50x50": "https://img-c.udemycdn.com/course/50x50/1824628_2ad0_5.jpg"
+          },
+          "__typename": "Course"
+        },
+        "resultTrackingId": "cGgQ5ghgS5CU_XdkN7hUAQ",
+        "trackingId": "6d7XdoXrQb6jSeRq6zb8Bg"
+      },
+      {
+        "item": {
+          "id": "4567496",
+          "title": "IoT Based Home  Automation System",
+          "url": "https://udemy.com/course/mastering-in-home-automation-system",
+          "instructors": [
+            {
+              "name": "Professor (Dr) A Ahmad"
+            }
+          ],
+          "images": {
+            "px50x50": "https://img-c.udemycdn.com/course/50x50/4567496_659d_4.jpg"
+          },
+          "__typename": "Course"
+        },
+        "resultTrackingId": "cGgQ5ghgS5CU_XdkN7hUAQ",
+        "trackingId": "xuuR3oZeTnSABW_Mqm8ePg"
+      },
+      {
+        "item": {
+          "id": "44780398",
+          "name": "Nathan Glover",
+          "url": "https://udemy.com/user/nathan-glover-4",
+          "images": {
+            "px50x50": "https://img-c.udemycdn.com/user/50x50/44780398_acaa.jpg"
+          },
+          "__typename": "CourseInstructor"
+        },
+        "resultTrackingId": "cGgQ5ghgS5CU_XdkN7hUAQ",
+        "trackingId": "VoOGVicFQtqB3mZPDMs37g"
+      },
+      {
+        "item": {
+          "id": "39336060",
+          "name": "Jeffrey Huang",
+          "url": "https://udemy.com/user/jeffrey-huang-9",
+          "images": {
+            "px50x50": "https://img-c.udemycdn.com/user/50x50/39336060_0fb5_5.jpg"
+          },
+          "__typename": "CourseInstructor"
+        },
+        "resultTrackingId": "cGgQ5ghgS5CU_XdkN7hUAQ",
+        "trackingId": "Eg8gOBWdRvWtjD0N9w7OCw"
+      },
+      {
+        "item": {
+          "id": "44831418",
+          "name": "Michael Pogrebinsky | Software Architecture, System Design, Java Expert",
+          "url": "https://udemy.com/user/michael-pogrebinsky",
+          "images": {
+            "px50x50": "https://img-c.udemycdn.com/user/50x50/44831418_b215_3.jpg"
+          },
+          "__typename": "CourseInstructor"
+        },
+        "resultTrackingId": "cGgQ5ghgS5CU_XdkN7hUAQ",
+        "trackingId": "C0hiBiNdTjytK74CEV8BRw"
+      }
+    ]
+  }
+}
